@@ -1,6 +1,6 @@
 
                     
- name: Build and Push Docker image to Docker Hub
+name: Build and Push Docker image to Docker Hub
 
 on: push
 jobs:
