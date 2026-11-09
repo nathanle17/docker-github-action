@@ -1,3 +1,22 @@
+Used github actions to carry out tasks such as pushing and pulling docker images
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # IS202-Classwork-Foosball
 IS202 Classwork Foosball Project
 
