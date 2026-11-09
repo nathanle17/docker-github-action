@@ -22,4 +22,4 @@ jobs:
         with:
           context: foosball/
           push: true
-          tags: yourdockerusername/foosball:${{github.run_number}}
+          tags: nathanle17/foosball:${{github.run_number}}
